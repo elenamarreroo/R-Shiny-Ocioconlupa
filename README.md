@@ -18,11 +18,21 @@
 
 - Los ejecutables de la app (server.R, ui.R) 
 
-
-
 ## 👀 Cosas a tener en cuenta:
 
 <p align="justify">La base de datos es una base de datos "de juguete". Además, para que la app funcione la fecha introducida debe ser cualquier día de Mayo de 2021. Por último, cabe destacar que para la realización del R-shiny se ha utilizado una plantilla de Shiny Gallery "Career PathFinder".</p>
+
+## 👫👭 Equipazo:
+
+<img src="https://user-images.githubusercontent.com/98991004/200295122-6048a7dd-3013-4ff9-92e9-75726e0e2d80.jpg" align="right" width="300" height="200">
+
+Este proyecto ha sido realizado por: 
+
+
+- Moisés Barrios Torres
+- Cecilia Diana Albelda
+- Irina Filimonova Sevcenco
+- Elena Marrero Castellano.
 
 ## 📄 Licencia 
 
