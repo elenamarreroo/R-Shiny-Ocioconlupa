@@ -16,7 +16,7 @@
 
 - Carpeta "www" que contiene las imágenes para la web.
 
-- Los ejecutables de la app (server.R, ui.R) 
+- Los ejecutables de la app (server.R, ui.R).
 
 ## 👀 Cosas a tener en cuenta:
 
@@ -32,7 +32,7 @@ Este proyecto ha sido realizado por:
 - Moisés Barrios Torres
 - Cecilia Diana Albelda
 - Irina Filimonova Sevcenco
-- Elena Marrero Castellano.
+- Elena Marrero Castellano
 
 ## 📄 Licencia 
 
